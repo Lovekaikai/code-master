@@ -1,7 +1,7 @@
 package com.example.yhdj.ad0417code;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.KeyEvent;
 
 import com.journeyapps.barcodescanner.CaptureManager;
